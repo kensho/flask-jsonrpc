@@ -51,8 +51,7 @@ class PyTest(TestCommand):
 
 setup(
     name='Flask-JSONRPC',
-    version='0.3.1',
-    url='https://github.com/cenobites/flask-jsonrpc',
+    version='0.3.1kensho',
     license='New BSD License',
     author='Nycholas de Oliveira e Oliveira',
     author_email='nycholas@gmail.com',
